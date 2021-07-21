@@ -1,18 +1,17 @@
-title: Long Haul
+title: HIGHTIDE
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: http://long-haul.netlify.app
+url: http://sonak-lll.github.io
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
-# Header Option
-# header: large
+ Header Option
+ header: large
 
 markdown: kramdown
 highlighter: rouge
 plugins: [jekyll-paginate]
 paginate: 5
-
 navigation:
   - title: Home
     url: /index.html
@@ -22,13 +21,13 @@ navigation:
     url: /contact
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
-  linkedin: brianmaierjr
+  github: 
+  twitter: 
+  facebook: 
+  email: 
+  linkedin: 
 
-google_analytics: "UA-58263416-1"
+google_analytics: 
 
 disqus:
-    shortname: brianmaierjr
+    shortname: 

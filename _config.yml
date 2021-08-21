@@ -1,13 +1,9 @@
 title: HIGHTIDE
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
-
+header: "large"
 url: http://sonak-lll.github.io
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
-
-#Header Option
-#header: large
-
 markdown: kramdown
 highlighter: rouge
 plugins: [jekyll-paginate]

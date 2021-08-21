@@ -5,8 +5,8 @@ url: http://sonak-lll.github.io
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
- Header Option
- header: large
+#Header Option
+#header: large
 
 markdown: kramdown
 highlighter: rouge

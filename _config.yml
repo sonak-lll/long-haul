@@ -1,6 +1,5 @@
 title: HIGHTIDE
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
-header: "large"
 url: http://sonak-lll.github.io
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -27,3 +26,6 @@ google_analytics:
 
 disqus:
     shortname: 
+
+header: large
+

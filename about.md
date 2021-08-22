@@ -6,19 +6,11 @@ title: About HIGHTIDE
 <div class="post">
 	<h1 class="pageTitle">About HIGHTIDE</h1>
 	<img src="{{ '/assets/img/touring.jpg' }}" alt="">
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
+	<p class="intro">Hi, I'm minyoung. (pre)AI enginieer and data researcher based on South Korea. I'm currently interested in sentiment analysis using bert to predict human emotions in diverse text. A person who wants to explore the world and human interaction using technologies. Slowly becomming a specialist</p>
+	<p>AI 엔지니어 혹은 데이터 사이언티스트를 꿈꾸는 학생. 감정 분석을 통한 인간 상호작용 분석과 정책 피드백 분석에 관심이 있습니다. 비가시화된 소수자의 목소리를 응집시키기 위해 사회과학적 관점으로 분석한 데이터에도 관심이 있어요. 흥미를 따라 공부하는 사람 </p>
 	<h2>Features</h2>
 	<ul>
-		<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
+		<li>AIffel ai curriculum</li>
+		<li>data research using PYTHON</li>
   	</ul>
 </div>
